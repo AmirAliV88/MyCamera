@@ -15,12 +15,9 @@ Simple Python scripts for webcam access and screen capture.
 - Saves as PNG with timestamp
 - Works without native screenshot tools
 
-## Requirements
+## Requirements & Installation
 
 - Python 3.6+
 - OpenCV (for camera) - `pip install opencv-python`
 - Pillow (for screenshots) - `pip install pillow`
 
-## Installation
-- `Python3 (importan)`
-- cv , time , pyautogui
