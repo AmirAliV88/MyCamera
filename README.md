@@ -22,8 +22,5 @@ Simple Python scripts for webcam access and screen capture.
 - Pillow (for screenshots) - `pip install pillow`
 
 ## Installation
-
-1. Clone repository:
-```bash
-git clone https://github.com/yourusername/your-repo.git
-cd your-repo
+- `Python3 (importan)`
+- cv , time , pyautogui
