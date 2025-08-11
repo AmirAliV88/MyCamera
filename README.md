@@ -17,7 +17,7 @@ Simple Python scripts for webcam access and screen capture.
 
 ## Requirements & Installation
 
-- Python 3.6+
+- Python 3.9+
 - OpenCV (for camera) - `pip install opencv-python`
-- Pillow (for screenshots) - `pip install pillow`
+- time , pyautogui (for screenshots) - `pip install time, pyautogui`
 
